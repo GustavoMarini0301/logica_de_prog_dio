@@ -1,2 +1,2 @@
-# logica_de_prog_dio
-Desafios e projetos abordados na trilha lógica de programação da Dio
+# Trilha lógica de programação da Digital Innovation One (DIO)
+Repositório criado com o intuito de publicar os desafios e projetos propostos durante a trilha.
